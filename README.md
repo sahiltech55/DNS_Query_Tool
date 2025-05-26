@@ -18,5 +18,11 @@ This project is a Python-based GUI tool to perform DNS lookups and reverse DNS r
 
 ## 📦 Requirements
 
-```bash
+```
 pip install dnspython pillow
+```
+🧪 How to Run
+```
+python dns_query_tool.py
+```
+Make sure cn.gif is in the same directory as the script.
